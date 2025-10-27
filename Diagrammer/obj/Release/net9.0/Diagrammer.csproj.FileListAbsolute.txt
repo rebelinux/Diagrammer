@@ -1,0 +1,17 @@
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/Diagrammer
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/Diagrammer.deps.json
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/Diagrammer.runtimeconfig.json
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/Diagrammer.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/Diagrammer.pdb
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/SixLabors.ImageSharp.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.csproj.AssemblyReference.cache
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.GeneratedMSBuildEditorConfig.editorconfig
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.AssemblyInfoInputs.cache
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.AssemblyInfo.cs
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.csproj.CoreCompileInputs.cache
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.csproj.Up2Date
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/refint/Diagrammer.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.pdb
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.genruntimeconfig.cache
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/ref/Diagrammer.dll
