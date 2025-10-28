@@ -141,7 +141,7 @@ public class ImageProcessor
             float x = (image.Width - textSize.Width) / 2;
             float y = (image.Height - textSize.Height) / 2;
 
-            image.Mutate(ctx => ctx.DrawText(new DrawingOptions() { Transform = Matrix3x2Extensions.CreateRotationDegrees(45, new PointF(x + textSize.Width/2, y + textSize.Height/2)) }, watermarkText, font, colorWithOpacity, new SixLabors.ImageSharp.PointF(x, y)));
+            image.Mutate(ctx => ctx.DrawText(new DrawingOptions() { Transform = Matrix3x2Extensions.CreateRotationDegrees(-45, new PointF(x + textSize.Width/2, y + textSize.Height/2)) }, watermarkText, font, colorWithOpacity, new SixLabors.ImageSharp.PointF(x, y)));
 
             image.Save(outputPath);
             return true;
