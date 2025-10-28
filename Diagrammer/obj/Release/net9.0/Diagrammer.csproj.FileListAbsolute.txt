@@ -15,3 +15,6 @@
 /home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.pdb
 /home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.genruntimeconfig.cache
 /home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/ref/Diagrammer.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/SixLabors.Fonts.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/SixLabors.ImageSharp.Drawing.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/obj/Release/net9.0/Diagrammer.sourcelink.json

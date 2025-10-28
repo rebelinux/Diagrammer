@@ -3,4 +3,6 @@
 /home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/publish/Diagrammer.deps.json
 /home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/publish/Diagrammer.runtimeconfig.json
 /home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/publish/Diagrammer.pdb
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/publish/SixLabors.Fonts.dll
 /home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/publish/SixLabors.ImageSharp.dll
+/home/rebelinux/Projects/Development Projects/Diagrammer/Diagrammer/bin/Release/net9.0/publish/SixLabors.ImageSharp.Drawing.dll
