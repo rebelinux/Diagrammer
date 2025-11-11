@@ -8,7 +8,7 @@ namespace Diagrammer
 {
     public class ConvertImageToPDF
     {
-        public bool ConvertPngToPdf(string pngFilePath, string pdfFilePath)
+        public static bool ConvertPngToPdf(string pngFilePath, string pdfFilePath)
         {
             try
             {
