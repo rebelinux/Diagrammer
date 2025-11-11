@@ -155,10 +155,5 @@ namespace Diagrammer
                 return false;
             }
         }
-
-        public static void Main(string[] args)
-        {
-
-        }
     }
 }
