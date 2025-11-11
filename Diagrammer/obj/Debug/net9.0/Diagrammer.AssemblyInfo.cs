@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Diagrammer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eada1eee77a642eabe7490c1bb096c6f53c6622b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18c93c355f25cf293a8df7063f9ee5fa23ceb06a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Diagrammer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Diagrammer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

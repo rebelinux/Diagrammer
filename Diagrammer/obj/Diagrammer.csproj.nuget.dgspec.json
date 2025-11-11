@@ -55,6 +55,14 @@
             "SixLabors.ImageSharp.Drawing": {
               "target": "Package",
               "version": "[2.1.7, )"
+            },
+            "itext": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            },
+            "itext.bouncy-castle-adapter": {
+              "target": "Package",
+              "version": "[9.3.0, )"
             }
           },
           "imports": [
